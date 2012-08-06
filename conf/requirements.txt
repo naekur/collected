@@ -1,0 +1,7 @@
+# Twisted and Twisted Web are required but will need to be install seperately
+git+https://github.com/gleicon/restmq.git
+cyclone
+txredisapi
+simplejson
+
+pymongo
